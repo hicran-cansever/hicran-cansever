@@ -16,7 +16,7 @@ Computer engineering student interested in network security, machine learning, a
 | [xai-nids-cyber-radar](https://github.com/hicran-cansever/xai-nids-cyber-radar) | Network intrusion detection with SHAP-based explainability |
 | [personnel-department-comparison](https://github.com/hicran-cansever/personnel-department-comparison) | AD vs personnel list department mismatch detector |
 | [amazon-baby-sentiment-analysis](https://github.com/hicran-cansever/amazon-baby-sentiment-analysis) | Review sentiment classifier using NLP and scikit-learn |
-| [smart-route-finder](https://github.com/hicran-cansever/smart_route_finder) | Campus shortest path finder with Dijkstra and Leaflet.js |
+| [smart-route-finder](https://github.com/hicran-cansever/smart-route-finder) | Campus shortest path finder with Dijkstra, A* and Leaflet.js |
 
 ## Tech
 
